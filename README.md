@@ -1,7 +1,6 @@
 # Smart Parking Simulator
 
-![Project Banner](![Uploading image.png…]()
-)
+![Project Banner](https://github.com/yourusername/your-repo-name/blob/main/assets/banner.png?raw=true)
 
 A simple and interactive **Smart Parking Simulator** built with Python and Pygame.  
 Simulates cars entering a parking lot, automatically parking in the nearest free slot, and leaving smoothly with animations.
